@@ -49,6 +49,7 @@ the Docker registry. The deployment process is handled with Kubernetes and ArgoC
 - [x] [swe-auth-service](https://github.com/ngdangkietswe/swe-auth-service)
 - [x] [swe-storage-service](https://github.com/ngdangkietswe/swe-storage-service)
 - [x] [swe-notification-service](https://github.com/ngdangkietswe/swe-notification-service)
+- [x] [swe-integration-service](https://github.com/ngdangkietswe/swe-integration-service)
 
 ## Gateway
 
