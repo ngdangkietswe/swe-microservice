@@ -46,6 +46,7 @@ the Docker registry. The deployment process is handled with Kubernetes and ArgoC
 ## Services
 
 - [x] [swe-task-service](https://github.com/ngdangkietswe/swe-task-service)
+- [x] [swe-time-tracking-service](https://github.com/ngdangkietswe/swe-time-tracking-service)
 - [x] [swe-auth-service](https://github.com/ngdangkietswe/swe-auth-service)
 - [x] [swe-storage-service](https://github.com/ngdangkietswe/swe-storage-service)
 - [x] [swe-notification-service](https://github.com/ngdangkietswe/swe-notification-service)
